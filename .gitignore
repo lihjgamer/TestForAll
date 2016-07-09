@@ -1,0 +1,11 @@
+*.obj
+*.lib
+*.sdf
+*.suo
+*.ilk
+*.pdb
+*.log
+*.ncb
+
+
+/Debug
